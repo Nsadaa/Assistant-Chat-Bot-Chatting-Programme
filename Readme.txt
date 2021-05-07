@@ -4,7 +4,7 @@ Assistant Chat Bot ( Texting Based Programme ).
 - Assitant means its can use to make our day to day life easier. as example its like 'Alexa' , 'Cortna'.
 - Basicaly we can do several things using this.
 
-        Such as :  Check current date & time.
+     Such as :  Check current date & time.
 	     :  Check current Country , Region & City.
 	     :  Seach anything in google.
 	     :  Seach any location in google maps.
@@ -25,7 +25,7 @@ Assistant Chat Bot ( Texting Based Programme ).
                      : lists.
                      : String methods.
 
-- You can do Future Developments using this.
+- You can do any future developments using this.
 
 Thank you......
 	 
